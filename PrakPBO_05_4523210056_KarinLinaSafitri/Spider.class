@@ -1,0 +1,9 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+public class Spider extends Animal {
+   public Spider() {
+   }
+
+   void eat() {
+      System.out.println("Sedang Makan");
+   }
+}

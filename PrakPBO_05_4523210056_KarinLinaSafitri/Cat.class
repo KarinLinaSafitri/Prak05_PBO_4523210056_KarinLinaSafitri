@@ -1,0 +1,13 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+public class Cat implements Pet {
+   public Cat() {
+   }
+
+   public void setName(String var1) {
+      System.out.println("Cat's name is : " + var1);
+   }
+
+   public void play() {
+      System.out.println("Cat is playing");
+   }
+}
